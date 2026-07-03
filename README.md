@@ -34,12 +34,34 @@ Complete the required environment setup by installing the requested tools, creat
 
 ---
 
-## Issues Encountered
+### 1. Git author identity was not configured
 
-To be completed after finishing the entire setup process.
+When creating my first commit, Git returned an error because my user name and email had not been configured.
+
+**Solution**
+
+Configured Git using:
+
+- git config --global user.name
+- git config --global user.email
+
+After configuring my identity, the commit completed successfully.
+
+---
+
+### 2. README changes did not appear on GitHub
+
+After pushing the repository, I noticed that the README displayed on GitHub was empty.
+
+**Solution**
+
+I realized the file had not been saved before creating the commit. After saving the file, I staged the changes again, created a new commit, and pushed the updated version successfully.
 
 ---
 
 ## What I Learned
 
-To be completed after finishing the setup process.
+- Basic Git workflow (status, add, commit, push).
+- How to connect a local Git repository with GitHub.
+- The importance of saving changes before committing.
+- How to troubleshoot setup issues independently using documentation and available resources.
