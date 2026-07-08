@@ -1,6 +1,6 @@
 # Sources
 
-## Armand Farrokh
+## 1. Armand Farrokh
 
 ### Current Role
 
@@ -32,7 +32,7 @@
 - Source basis: official 30MPC website, podcast page, book page, and YouTube channel.
 - I did not include unverified personal profile details.
 
-## Florin Tatulea
+## 2. Florin Tatulea
 
 ### Current Role
 
