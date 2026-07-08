@@ -1,67 +1,30 @@
-# 100Hires Portfolio Setup
+# Cold Outreach Pipeline for B2B SaaS
 
-This repository documents the completion of the initial setup task for the Junior Growth Marketing Specialist application.
+This repository contains my research for the 100Hires hiring assessment.
 
----
+## What I Collected
 
-## Objective
+- A curated list of B2B SaaS sales experts (`research/sources.md`)
+- YouTube transcripts from selected experts (`research/youtube-transcripts/`)
+- LinkedIn posts from selected experts (`research/linkedin-posts/`)
+- Additional supporting materials (`research/other/`)
 
-Complete the required environment setup by installing the requested tools, creating a GitHub repository, documenting the process, and publishing the repository.
+## Why I Chose These Experts
 
----
+I selected practitioners with proven experience in B2B SaaS sales, outbound prospecting, GTM strategy, and enterprise sales.
 
-## Tools Installed
+Instead of choosing experts based on popularity, I prioritized professionals who actively share practical frameworks, real-world experiences, and actionable strategies that can contribute to building a practical Cold Outreach Pipeline playbook.
 
-- Cursor IDE
-- Claude Code extension
-- Codex extension
-- Git
-- GitHub
+The collected materials cover topics such as:
 
----
-
-## Steps Completed
-
-1. Installed Cursor IDE.
-2. Verified Git installation.
-3. Created a public GitHub repository.
-4. Opened the repository in Cursor.
-5. Installed the Claude Code extension.
-6. Installed the Codex extension.
-7. Initialized a local Git repository.
-8. Connected the local repository to GitHub.
-9. Created this README.md file.
-
----
-
-### 1. Git author identity was not configured
-
-When creating my first commit, Git returned an error because my user name and email had not been configured.
-
-**Solution**
-
-Configured Git using:
-
-- git config --global user.name
-- git config --global user.email
-
-After configuring my identity, the commit completed successfully.
-
----
-
-### 2. README changes did not appear on GitHub
-
-After pushing the repository, I noticed that the README displayed on GitHub was empty.
-
-**Solution**
-
-I realized the file had not been saved before creating the commit. After saving the file, I staged the changes again, created a new commit, and pushed the updated version successfully.
-
----
-
-## What I Learned
-
-- Basic Git workflow (status, add, commit, push).
-- How to connect a local Git repository with GitHub.
-- The importance of saving changes before committing.
-- How to troubleshoot setup issues independently using documentation and available resources.
+- Ideal Customer Profile (ICP)
+- Prospecting
+- Signal-Based Outbound
+- Cold Email
+- Cold Calling
+- LinkedIn Outreach
+- Follow-up Strategy
+- Discovery
+- Negotiation
+- Enterprise Sales
+- Closing

@@ -1,58 +1,17 @@
 # Sources
 
-## 1. Armand Farrokh
+### 1. Armand Farrokh
 
-### Current Role
+- **Collected Material:** LinkedIn Post
+- **Date:** 9 July 2026
+- **Link:** https://www.linkedin.com/posts/armand-farrokh_i-went-into-a-call-with-a-new-head-of-procurement-activity-7480658266947997696-i5Gf
+- **Brief Annotation:** Shares a real procurement negotiation experience and explains how trust, humor, and relationship-building help create stronger B2B sales conversations.
 
-- Co-founder of 30 Minutes to President's Club.
-- Former VP of Sales.
+---
 
-### Why Selected
+### 2. Florin Tatulea
 
-- Selected because 30MPC publishes practical B2B sales content on cold calling, cold email, discovery, and outbound selling.
-- Official 30MPC author bio says Armand led Pave from $100k to $13M+ in revenue in under 2 years.
-
-### Main Content Platforms
-
-- 30MPC Website
-- 30MPC Podcast
-- 30MPC YouTube Channel
-- 30MPC LinkedIn Page
-- Armand Farrokh X Profile
-
-### Official Links
-
-- 30MPC website: https://www.30mpc.com/
-- 30MPC podcast: https://www.30mpc.com/podcast
-- 30MPC YouTube: https://www.youtube.com/@30MPC
-- 30MPC book page: https://www.30mpc.com/the-book-on-cold-calling
-
-### Notes
-
-- Source basis: official 30MPC website, podcast page, book page, and YouTube channel.
-- I did not include unverified personal profile details.
-
-## 2. Florin Tatulea
-
-### Current Role
-
-- Head of Sales Development at Common Room.
-
-### Why Selected
-
-- Selected because the official 30MPC YouTube video introduces Florin Tatulea as someone who builds prospecting systems that scale.
-- The selected YouTube video focuses on signal-based outbound, which is directly relevant to building a cold outreach pipeline for B2B SaaS.
-
-### Main Content Platforms
-
-- 30MPC YouTube Channel
-
-### Official Links
-
-- 30MPC YouTube: https://www.youtube.com/@30MPC
-- Florin Tatulea YouTube video: https://www.youtube.com/watch?v=YYZUVbMbln8
-
-### Notes
-
-- Source basis: official 30MPC YouTube channel and the official YouTube video provided for this research task.
-- I did not include unverified personal profile details.
+- **Collected Material:** YouTube Transcript
+- **Date:** 17 October 2024
+- **Link:** https://youtu.be/YYZUVbMbln8
+- **Brief Annotation:** Explains the Signal-Based Outbound framework and how GTM teams prioritize buyers using intent signals instead of traditional outbound methods.

@@ -1,6 +1,6 @@
 # Cold Email Masterclass: Everything You Need To Book Meetings in 2026
 
-- Expert: Armand Farrokh
+- Expert: Jason Bay
 - Channel: 30 Minutes to President's Club
 - Source: https://www.youtube.com/watch?v=JX1UNIJwcCY
 - Transcript type: YouTube captions
