@@ -15,3 +15,12 @@
 - **Date:** 17 October 2024
 - **Link:** https://youtu.be/YYZUVbMbln8
 - **Brief Annotation:** Explains the Signal-Based Outbound framework and how GTM teams prioritize buyers using intent signals instead of traditional outbound methods.
+
+---
+
+### 3. Jason Bay
+
+- **Collected Material:** YouTube Transcript
+- **Date:** 5 May 2026
+- **Link:** https://www.youtube.com/watch?v=JX1UNIJwcCY
+- **Brief Annotation:** Provides a practical cold email framework for improving reply rates, booking meetings, and building more effective outbound sequences in B2B SaaS.
