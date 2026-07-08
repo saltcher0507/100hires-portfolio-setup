@@ -1,13 +1,9 @@
-# Signal-Based Outbound
+# Florin Tatulea Signal Based Outbound
 
-- Expert: Florin Tatulea
-- Channel: 30 Minutes to President's Club
-- Source: https://www.youtube.com/watch?v=YYZUVbMbln8
-- Transcript type: YouTube captions
+**Expert:** Florin Tatulea
 
-## Why This Video Was Selected
-
-This video is relevant to Cold Outreach Pipeline for B2B SaaS because it focuses on signal-based outbound, which helps identify better prospecting triggers and create more relevant outreach messages.
+**Source:**
+https://youtu.be/YYZUVbMbln8
 
 ## Transcript
 
