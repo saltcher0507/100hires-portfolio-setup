@@ -24,3 +24,12 @@
 - **Date:** 5 May 2026
 - **Link:** https://www.youtube.com/watch?v=JX1UNIJwcCY
 - **Brief Annotation:** Provides a practical cold email framework for improving reply rates, booking meetings, and building more effective outbound sequences in B2B SaaS.
+
+---
+
+### 3. Kyle Coleman
+
+- **Collected Material:** YouTube Transcript
+- **Date:** 26 November 2024
+- **Link:** https://www.youtube.com/watch?v=7OdRu6_YqGc
+- **Brief Annotation:** Provides a strategic framework for identifying a target account's high-level initiatives (like IPO readiness or M&A) and matching them directly to your buyer persona's priorities.
