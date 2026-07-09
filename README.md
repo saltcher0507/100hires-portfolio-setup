@@ -25,5 +25,5 @@ The collected materials cover topics such as:
 - LinkedIn Outreach - Richard van der Blom
 - Follow-up Strategy - Jen Allen-Knuth
 - Negotiation - Armand Farrokh
-- Enterprise Sales
+- Enterprise Sales - John Barrows
 - Closing

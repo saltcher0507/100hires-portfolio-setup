@@ -79,3 +79,12 @@
 - **Date:** February 2026
 - **Link:** https://www.linkedin.com/posts/demandjen1_lets-say-you-had-a-zoom-call-with-your-prospect-ugcPost-7424580632774754305-rhfv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADboZYsBjn0X88mvp2vhHlFmCf78QS8rKM8
 - **Brief Annotation:** Demonstrates how personalized follow-up messages based on previous conversations help re-engage prospects and increase response rates without relying on generic check-in emails.
+
+---
+
+### 9. John Barrows
+
+- **Collected Material:** YouTube Transcript
+- **Date:** 5 January 2018
+- **Link:** https://www.youtube.com/watch?v=bY1UzIvF798
+- **Brief Annotation:** Explains how to distinguish fans, coaches, and true champions—an essential enterprise sales framework for navigating buying committees and securing internal support in complex B2B SaaS deals.
