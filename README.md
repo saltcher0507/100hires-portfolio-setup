@@ -17,14 +17,14 @@ Instead of choosing experts based on popularity, I prioritized professionals who
 
 The collected materials cover topics such as:
 
-- Ideal Customer Profile (ICP)
-- Prospecting
-- Signal-Based Outbound
-- Cold Email
-- Cold Calling
+- Ideal Customer Profile (ICP) - Kyle Coleman
+- Prospecting - Brandon Fluharty
+- Signal-Based Outbound - Florin Tatulea
+- Cold Email - Jason Bay
+- Cold Calling - 
 - LinkedIn Outreach
 - Follow-up Strategy
 - Discovery
-- Negotiation
+- Negotiation - Armand Farrokh
 - Enterprise Sales
 - Closing
