@@ -88,3 +88,12 @@
 - **Date:** 5 January 2018
 - **Link:** https://www.youtube.com/watch?v=bY1UzIvF798
 - **Brief Annotation:** Explains how to distinguish fans, coaches, and true champions—an essential enterprise sales framework for navigating buying committees and securing internal support in complex B2B SaaS deals.
+
+---
+
+### 10. Chris Orlob
+
+- **Collected Material:** YouTube Transcript
+- **Date:** 30 September 2023
+- **Link:** https://www.youtube.com/watch?v=yRhe2ryQsT8
+- **Brief Annotation:** Introduces a structured closing motion that helps B2B SaaS sellers maintain momentum, prevent deal slippage, and guide opportunities from verbal agreement to signed contracts.

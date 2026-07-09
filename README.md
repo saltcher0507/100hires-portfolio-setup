@@ -26,4 +26,4 @@ The collected materials cover topics such as:
 - Follow-up Strategy - Jen Allen-Knuth
 - Negotiation - Armand Farrokh
 - Enterprise Sales - John Barrows
-- Closing
+- Closing - Chris Orlob
