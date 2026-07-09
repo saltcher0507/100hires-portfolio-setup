@@ -23,7 +23,7 @@ The collected materials cover topics such as:
 - Cold Email - Jason Bay
 - Cold Calling - Morgan Ingram
 - LinkedIn Outreach - Richard van der Blom
-- Follow-up Strategy
+- Follow-up Strategy - Jen Allen-Knuth
 - Negotiation - Armand Farrokh
 - Enterprise Sales
 - Closing

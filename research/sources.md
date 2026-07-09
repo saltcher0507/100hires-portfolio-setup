@@ -70,3 +70,12 @@
 - **Date:** 6 December 2024
 - **Link:** https://www.youtube.com/watch?v=Oa3MlnglIjE
 - **Brief Annotation:** Provides practical LinkedIn outreach and social selling techniques for building trust with prospects and increasing response rates in B2B SaaS outbound sales.
+
+---
+
+### 8. Jen Allen-Knuth
+
+- **Collected Material:** LinkedIn Post
+- **Date:** February 2026
+- **Link:** https://www.linkedin.com/posts/demandjen1_lets-say-you-had-a-zoom-call-with-your-prospect-ugcPost-7424580632774754305-rhfv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADboZYsBjn0X88mvp2vhHlFmCf78QS8rKM8
+- **Brief Annotation:** Demonstrates how personalized follow-up messages based on previous conversations help re-engage prospects and increase response rates without relying on generic check-in emails.
