@@ -42,3 +42,22 @@
 - **Date:** 30 January 2024
 - **Link:** https://www.youtube.com/watch?v=FiO1HPWSTgc
 - **Brief Annotation:** Fluharty details his methodology for limiting target account lists, ensuring that sellers maintain the capacity to conduct the deep account research required for high-converting outreach.
+
+---
+
+### 6. Morgan J Ingram
+
+- **Collected Material:**
+  - YouTube Transcript
+  - LinkedIn Post
+
+- **YouTube**
+  - **Date:** 12 October 2024
+  - **Link:** https://www.youtube.com/watch?v=mf_cgcDY1eE
+
+- **LinkedIn**
+  - **Date:** March 2026
+  - **Link:** https://www.linkedin.com/posts/morganjingramamp_an-sdr-team-came-to-me-struggling-to-book-share-7429898335886540800-1Kmu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADboZYsBjn0X88mvp2vhHlFmCf78QS8rKM8
+
+- **Brief Annotation:**
+  Morgan demonstrates practical cold calling strategies by combining structured phone conversations, objection handling, and multi-channel outreach techniques to consistently book more meetings.

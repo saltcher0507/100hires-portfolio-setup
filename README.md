@@ -21,10 +21,9 @@ The collected materials cover topics such as:
 - Prospecting - Brandon Fluharty
 - Signal-Based Outbound - Florin Tatulea
 - Cold Email - Jason Bay
-- Cold Calling - 
+- Cold Calling - Morgan Ingram
 - LinkedIn Outreach
 - Follow-up Strategy
-- Discovery
 - Negotiation - Armand Farrokh
 - Enterprise Sales
 - Closing
