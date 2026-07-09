@@ -22,7 +22,7 @@ The collected materials cover topics such as:
 - Signal-Based Outbound - Florin Tatulea
 - Cold Email - Jason Bay
 - Cold Calling - Morgan Ingram
-- LinkedIn Outreach
+- LinkedIn Outreach - Richard van der Blom
 - Follow-up Strategy
 - Negotiation - Armand Farrokh
 - Enterprise Sales

@@ -61,3 +61,12 @@
 
 - **Brief Annotation:**
   Morgan demonstrates practical cold calling strategies by combining structured phone conversations, objection handling, and multi-channel outreach techniques to consistently book more meetings.
+
+---
+
+### 7. Richard van der Blom
+
+- **Collected Material:** YouTube Transcript
+- **Date:** 6 December 2024
+- **Link:** https://www.youtube.com/watch?v=Oa3MlnglIjE
+- **Brief Annotation:** Provides practical LinkedIn outreach and social selling techniques for building trust with prospects and increasing response rates in B2B SaaS outbound sales.
