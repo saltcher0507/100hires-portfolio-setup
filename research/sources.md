@@ -27,9 +27,18 @@
 
 ---
 
-### 3. Kyle Coleman
+### 4. Kyle Coleman
 
 - **Collected Material:** YouTube Transcript
 - **Date:** 26 November 2024
 - **Link:** https://www.youtube.com/watch?v=7OdRu6_YqGc
 - **Brief Annotation:** Provides a strategic framework for identifying a target account's high-level initiatives (like IPO readiness or M&A) and matching them directly to your buyer persona's priorities.
+
+---
+
+### 5. Brandon Fluharty
+
+- **Collected Material:** YouTube Transcript
+- **Date:** 30 January 2024
+- **Link:** https://www.youtube.com/watch?v=FiO1HPWSTgc
+- **Brief Annotation:** Fluharty details his methodology for limiting target account lists, ensuring that sellers maintain the capacity to conduct the deep account research required for high-converting outreach.
